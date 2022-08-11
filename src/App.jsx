@@ -19,6 +19,7 @@ function HomePage() {
           marginBottom: '10rem'
         }}
       >
+        <h3>gvdbgfvdfbkuihebrgferg haha</h3>
         click the buttons below
       </h2>
       <button
@@ -26,7 +27,7 @@ function HomePage() {
           fontFamily: 'monospace',
           padding: '1rem',
           fontSize: '2rem',
-          background: 'blue',
+          background: 'teal',
           color: 'white'
         }}
         onClick={() => alert('Hello there')}
@@ -38,7 +39,7 @@ function HomePage() {
           fontFamily: 'monospace',
           padding: '1rem',
           fontSize: '2rem',
-          background: 'orange',
+          background: 'purple',
           color: 'white',
           marginTop: '2rem'
         }}
@@ -58,7 +59,7 @@ function HomePage() {
           fontFamily: 'monospace',
           padding: '1rem',
           fontSize: '2rem',
-          background: 'blue',
+          background: 'limegreen',
           color: 'white'
         }}
         onClick={() => alert('Hello there')}
@@ -70,7 +71,7 @@ function HomePage() {
           fontFamily: 'monospace',
           padding: '1rem',
           fontSize: '2rem',
-          background: 'orange',
+          background: 'black',
           color: 'white',
           marginTop: '2rem'
         }}
@@ -121,7 +122,7 @@ function HomePage() {
           fontFamily: 'monospace',
           padding: '1rem',
           fontSize: '2rem',
-          background: 'blue',
+          background: 'silver',
           color: 'white'
         }}
         onClick={() => alert('Hello there')}
@@ -133,7 +134,7 @@ function HomePage() {
           fontFamily: 'monospace',
           padding: '1rem',
           fontSize: '2rem',
-          background: 'orange',
+          background: 'gold',
           color: 'white',
           marginTop: '2rem'
         }}
