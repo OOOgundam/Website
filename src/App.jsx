@@ -19,7 +19,7 @@ function HomePage() {
           marginBottom: '10rem'
         }}
       >
-        <h3>gvdbgfvdfbkuihebrgferg haha</h3>
+        <h3 style={{  fontFamily:'fantasy',color:'#3cd6bf'  }}>My website what I coded</h3>
         click the buttons below
       </h2>
       <button
