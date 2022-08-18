@@ -9,7 +9,9 @@ function HomePage() {
         alignItems: 'center'
       }}
     >
-      <h1 style={{ fontFamily: 'fantasy', color: '#4b9be1' }}>
+      <h1 style={{
+      fontFamily: 'fantasy', 
+      color: '#4b9be1' }}>
         {"Riku's website"}
       </h1>
       <h2
@@ -19,8 +21,12 @@ function HomePage() {
           marginBottom: '10rem'
         }}
       >
-        <h3 style={{  fontFamily:'fantasy',color:'#3cd6bf'  }}>My website what I coded</h3>
-        <h4 style={{  color:'#0d4fbf',fontfamily:'cursive'  }>Hello</h4>
+        <h3 style={{
+        fontFamily:'fantasy',
+        color:'#3cd6bf'  }}>My website what I coded</h3>
+        <h4 style={{  
+         color:'#0d4fbf',
+         fontfamily:'cursive'  }>Hello</h4>
         click the buttons below
       </h2>
       <button
