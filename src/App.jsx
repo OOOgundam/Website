@@ -20,6 +20,7 @@ function HomePage() {
         }}
       >
         <h3 style={{  fontFamily:'fantasy',color:'#3cd6bf'  }}>My website what I coded</h3>
+        <h4 style={{  color:'#0d4fbf',fontfamily:'cursive'  }>Hello</h4>
         click the buttons below
       </h2>
       <button
